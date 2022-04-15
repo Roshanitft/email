@@ -42,7 +42,7 @@ jobs:
     # Required recipients' addresses:
           to: roshanilalwani1111@gmail.com
     # Required sender full name (address can be skipped):
-          from: Roshani Lalwani # <user@example.com>
+          from: Roshani Lalwani <roshanilalwani1111@gmail.com>
     # Optional whether this connection use TLS (default is true if server_port is 465)
           secure: true
 
